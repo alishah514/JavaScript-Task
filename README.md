@@ -1,2 +1,1 @@
-# javascript-task
-quick testing task 
+## Please look into Folders specific README files
